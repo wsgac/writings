@@ -1,0 +1,32 @@
+#+title: First Implementations of the Language Lisp in the USSR
+#+author: Gorodnyaya L. V.
+#+bibliography: First_Implementations_Of_The_Language_Lisp_In_The_USSR plain
+
+The history of the universal programming language Lisp has been
+riddled with sharp discussions, heated disputes, misguided judgements,
+bright accomplishments and daring inventions. In our country
+familiarity with this language has been obtained
+first-hand. Concluding his tournee of the USSR in late 1968
+\cite{39,40}, John McCarthy started a series of lectures in Moscow and
+Novosibirsk, devoted to the Lisp language and automatic theorem
+proving. In the course of those lectures he outlined - using
+Algol-60 - the main algorithms of the Lisp 1.5 programming system,
+expressing along the way serious skepticism about the posssibility of
+implementing it on our largest mainframe - BESM-6. This skepticism
+sounded like an intellectual challenge. By that time S. S. Lavrov and
+A. P. Ershov had already developed designs for domestic programming
+systems based on Lisp 1.5 on BESM-6\cite{1,32}.
+
+The Moscow Lisp system (VC AN SSSR), created by S. S. Lavrov and
+G. S. Silagadze, has been described in detail in \cite{1,2,3} and is
+stil usable as a description of the language and its methods of
+implementation. The Moscow Lisp system has for many years served as
+the basis for artificial intelligence and symbolic processing
+work. Following that, there had been similar implementations of the
+Lisp language for the ODRA 1204 and ES mainframes \cite{9,10}. A range
+of interesting developments concerning automation of representation
+and analysis of complex molecules was done by V. S. Lozovsky
+\cite{11}. System maintenance and further development became the
+responsibility of V. M. Yufa \cite{7,8}. In his biography,
+S. S. Lavrov considers this project one of his most successful
+\cite{41}.
