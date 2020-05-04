@@ -1,5 +1,6 @@
-# Vaybertaytsh Episode: Yiddish and Jesus
-## Rukhl Slutsky and Mindl Cohen
+# Vaybertaytsh Episode: Yiddish and Jesus #
+
+## Rukhl Slutsky and Mindl Cohen ##
 
 (Mindl introduces herself and our project)
 
@@ -21,3 +22,5 @@ non-historical figure?
 Mindl: Rukhl,  I was  taught that he  was a rabbi,  just a  rabbi like
 others. Perhaps  also, that  he was  a kind of  radical, who  had some
 unorthodox ideas. Even a bit crazy, but, in any case, a Jew.
+
+
